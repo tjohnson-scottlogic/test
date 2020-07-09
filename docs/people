@@ -1,0 +1,17 @@
+# Definition of Done
+
+The following things should be considered before a ticket is closed (if appropriate):
+
+* Acceptance criteria met
+
+* Working code supported by unit tests
+
+* Integration tests written and passing (if appropriate)
+
+* Code review complete (including review of tests)
+
+* Code and tests checked in with all the automated tests passing
+
+* Documentation updated
+
+* Outstanding issues/related tasks created
